@@ -1,4 +1,4 @@
-# Real World Asset Tokenization
+# Real-World Asset Tokenization
 
 The Real World Asset Tokenization project aims to revolutionize traditional asset ownership by leveraging blockchain technology to tokenize real-world assets. In today's financial landscape, ownership of physical assets such as real estate, art, commodities, and infrastructure is often cumbersome, illiquid, and subject to geographical and regulatory constraints. This project seeks to address these limitations by digitizing and fractionalizing ownership of real-world assets through the creation of digital tokens on a blockchain platform.
 

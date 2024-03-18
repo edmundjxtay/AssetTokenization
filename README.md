@@ -17,3 +17,6 @@ The Real World Asset Tokenization project addresses several key challenges in tr
 4. **Efficiency**: Manual processes involved in asset ownership and transfer, such as paperwork, legal agreements, and settlement delays, are time-consuming and costly. Tokenization streamlines these processes through smart contracts, automating asset issuance, transfer, and compliance procedures, thereby improving operational efficiency and reducing administrative overhead.
 
 Overall, the Real World Asset Tokenization project represents a paradigm shift in the way real-world assets are owned, traded, and managed. By harnessing the power of blockchain technology, the project aims to unlock new opportunities for investors, enhance market efficiency, and democratize access to global asset markets.
+
+#Credits
+Code from Bells Institute of Higher Learning
